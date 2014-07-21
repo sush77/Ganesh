@@ -3,6 +3,10 @@
 
  int main()
    {
+   int total;
+   for(i=0;i<5;i++)
+    total=total+i;
+    
    printf("HELLO WORLD");
    getch();
    return 0;
