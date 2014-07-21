@@ -9,6 +9,10 @@
    for(i=0;i<5;i++)
     total=total+i;
     
+   printf("\n printing the total %d \n",total); 
+   
+   printf("\n GO AHED EXPREESS YOURSELF\n");
+    
    printf("HELLO WORLD");
    getch();
    return 0;
