@@ -3,7 +3,7 @@
 
  int main()
    {
-   int total,i;
+   int total,i,diff=0;
    //intialise total to zero
    total = 0
    for(i=0;i<5;i++)
@@ -12,6 +12,10 @@
    printf("\n printing the total %d \n",total); 
    
    printf("\n GO AHED EXPREESS YOURSELF\n");
+   
+    diff=total-15;
+    
+    printf("difference is %d \n",diff);
     
    printf("HELLO WORLD");
    getch();
