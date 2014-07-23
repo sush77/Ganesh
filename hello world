@@ -11,6 +11,9 @@
     
    printf("\n printing the total %d \n",total); 
    
+   //this is a wrong co you can  it following way
+   a=a+10;
+   
    printf("\n GO AHED EXPREESS YOURSELF\n");
    
     diff=total-15;
